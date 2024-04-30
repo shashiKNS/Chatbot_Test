@@ -1,3 +1,4 @@
+
 ctransformers
 sentence-transformers
 pinecone-client 
